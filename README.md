@@ -5,3 +5,5 @@ To make improvements and enhancements to the already functioning website for sea
 
 ## Horiseon Website
 The website can be deployed at https://rochelleyounger.github.io/Horiseon/
+
+© 2019 Horiseon Social Solution Services, Inc.
